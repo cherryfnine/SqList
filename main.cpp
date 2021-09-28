@@ -15,5 +15,6 @@ int main(int argc, char const *argv[]) {
   DeleteElem(L, 4, e);
   cout << e << endl;
   cout << LocateElem(L, 5) << endl;
+  cout << "hello" << endl;
   return 0;
 }
