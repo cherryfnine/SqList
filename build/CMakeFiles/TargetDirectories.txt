@@ -1,0 +1,3 @@
+D:/Code/VS/SL/build/CMakeFiles/result.dir
+D:/Code/VS/SL/build/CMakeFiles/edit_cache.dir
+D:/Code/VS/SL/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Code/VS/SL/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/result.dir/includes_CXX.rsp -g -o CMakeFiles\\result.dir\\main.cpp.obj -c D:\\Code\\VS\\SL\\main.cpp",
+  "file": "D:/Code/VS/SL/main.cpp"
+},
+{
+  "directory": "D:/Code/VS/SL/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/result.dir/includes_CXX.rsp -g -o CMakeFiles\\result.dir\\src\\SqList.cpp.obj -c D:\\Code\\VS\\SL\\src\\SqList.cpp",
+  "file": "D:/Code/VS/SL/src/SqList.cpp"
+}
+]

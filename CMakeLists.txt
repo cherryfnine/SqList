@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20.3)
+project(SqList)
+include_directories(include)
+set(SRC ./src/SqList.cpp)
+add_executable(result main.cpp ${SRC})
